@@ -1,0 +1,6 @@
+Java 13 introduces text blocks to handle multiline strings like JSON/XML/HTML etc as is a preview feature. 
+With Java 14, we've second preview of Text Blocks. Now Text Block have following enhancements −
+
+\ − indicates an end of the line in case new line is to be started.
+
+\s − indicates a single space.
