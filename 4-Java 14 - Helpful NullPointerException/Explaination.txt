@@ -1,0 +1,2 @@
+Java 14 introduces NullPointerException with helpful information 
+in case -XX:+ShowCodeDetailsInExceptionMessages flag is passed to JVM.

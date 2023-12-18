@@ -1,0 +1,6 @@
+Java 14 introduces instanceof operator to have type test pattern as is a preview feature. 
+Type test pattern has a predicate to specify a type with a single binding variable.
+
+Syntax
+if (obj instanceof String s) {
+}
